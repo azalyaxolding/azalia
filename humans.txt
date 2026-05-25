@@ -1,0 +1,15 @@
+/* TEAM */
+Company: ОсОО «Азалия Холдинг»
+Brand (EN): Azalya Holding
+Role: Строительная компания
+Location: Кыргызская Республика, г. Нарын, ул. Ленина, 78, 722900
+Lead: Мамбетакунов Медалбек Шаршенкулович
+
+/* SITE */
+Main URL: https://example.com/
+Sections: Главная, Проекты, Руководство, Контакты
+Standards: HTML5, CSS3, Mobile-first adaptation
+
+/* NOTES */
+По данным компании, общий объём выполненных работ превышает 200 млн сомов.
+Формы бренда для поиска: Azalya Holding, Azaliya Holding, Азалия Холдинг.
